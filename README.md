@@ -1,1 +1,1 @@
-# Simple-CICD
+# CICD
